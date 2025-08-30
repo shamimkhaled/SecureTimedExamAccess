@@ -63,9 +63,9 @@ A Django REST Framework API for generating and validating secure, time-bound, on
 
 ```bash
 # Create project
-git clone 
+git clone https://github.com/shamimkhaled/SecureTimedExamAccess.git
 
-``
+```
 
 ### 2. Install Dependencies
 
