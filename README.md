@@ -300,6 +300,14 @@ Final statistics:
    - Tokens remaining: 350
    - Space saved: ~75.0 KB
 ```
+## Testing
+
+### Run Tests
+
+```bash
+# Run all tests
+python manage.py test
+```
 
 ## Security Features
 
