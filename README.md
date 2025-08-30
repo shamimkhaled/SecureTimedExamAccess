@@ -12,7 +12,6 @@ A Django REST Framework API for generating and validating secure, time-bound, on
 - [API Usage Examples](#api-usage-examples)
 - [Admin Interface](#admin-interface)
 - [Management Commands](#management-commands)
-- [Testing](#testing)
 - [Security Features](#security-features)
 - [Bonus Features](#bonus-features-implemented)
 - [Deployment](#deployment)
